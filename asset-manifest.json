@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.6a42768d.chunk.js",
-    "main.js.map": "/static/js/main.6a42768d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.512aef23.js",
-    "runtime-main.js.map": "/static/js/runtime-main.512aef23.js.map",
-    "static/js/2.0156d2d7.chunk.js": "/static/js/2.0156d2d7.chunk.js",
-    "static/js/2.0156d2d7.chunk.js.map": "/static/js/2.0156d2d7.chunk.js.map",
-    "static/js/3.8a5b43c7.chunk.js": "/static/js/3.8a5b43c7.chunk.js",
-    "static/js/3.8a5b43c7.chunk.js.map": "/static/js/3.8a5b43c7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.0156d2d7.chunk.js.LICENSE.txt": "/static/js/2.0156d2d7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/Mafia-Frontend/static/css/main.a617e044.chunk.css",
+    "main.js": "/Mafia-Frontend/static/js/main.6a42768d.chunk.js",
+    "main.js.map": "/Mafia-Frontend/static/js/main.6a42768d.chunk.js.map",
+    "runtime-main.js": "/Mafia-Frontend/static/js/runtime-main.b7da6cc5.js",
+    "runtime-main.js.map": "/Mafia-Frontend/static/js/runtime-main.b7da6cc5.js.map",
+    "static/js/2.0156d2d7.chunk.js": "/Mafia-Frontend/static/js/2.0156d2d7.chunk.js",
+    "static/js/2.0156d2d7.chunk.js.map": "/Mafia-Frontend/static/js/2.0156d2d7.chunk.js.map",
+    "static/js/3.8a5b43c7.chunk.js": "/Mafia-Frontend/static/js/3.8a5b43c7.chunk.js",
+    "static/js/3.8a5b43c7.chunk.js.map": "/Mafia-Frontend/static/js/3.8a5b43c7.chunk.js.map",
+    "index.html": "/Mafia-Frontend/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Mafia-Frontend/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0156d2d7.chunk.js.LICENSE.txt": "/Mafia-Frontend/static/js/2.0156d2d7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Mafia-Frontend/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.512aef23.js",
+    "static/js/runtime-main.b7da6cc5.js",
     "static/js/2.0156d2d7.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.6a42768d.chunk.js"
